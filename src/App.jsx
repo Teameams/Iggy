@@ -1,7 +1,25 @@
+import { Routes, Route } from 'react-router-dom';
+import Navigation from './components/Navigation';
+import Footer from './components/Footer';
+import Home from './pages/Home';
+import About from './pages/About';
+import Products from './pages/Products';
+import Contact from './pages/Contact';
+import './App.css';
+
 function App() {
   return (
-    <div style={{ display: "flex", height: "100vh", justifyContent: "center", alignItems: "center", fontSize: "40px" }}>
-      Hello Iggy
+    <div className="app">
+      <Navigation />
+      <main>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/products" element={<Products />} />
+          <Route path="/contact" element={<Contact />} />
+        </Routes>
+      </main>
+      <Footer />
     </div>
   );
 }
