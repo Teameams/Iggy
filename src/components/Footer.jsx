@@ -39,7 +39,7 @@ function Footer() {
         <div className="footer-section">
           <h4>Get in Touch</h4>
           <ul>
-            <li><a href="mailto:hello@elshiney.com">hello@elshiney.com</a></li>
+            <li><a href="mailto:hello@bobmakeswebshop.com">hello@bobmakeswebshop.com</a></li>
             <li>Monday - Friday</li>
             <li>9 AM - 6 PM</li>
           </ul>
