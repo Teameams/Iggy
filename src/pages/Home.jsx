@@ -6,7 +6,6 @@ function Home() {
     <div className="home">
       <section className="hero">
         <div className="hero-content">
-          <h1>Daniel Adeniyi Temitope</h1>
           <p className="hero-subtitle">Professional Web Solutions for Your Business</p>
           <p className="hero-description">
             Tailored webshops and business websites that drive growth. 4 years of expertise in creating beautiful, 
