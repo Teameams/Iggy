@@ -4,7 +4,7 @@ function About() {
   return (
     <div className="about">
       <section className="about-hero">
-        <h1>About Elshiney web</h1>
+        <h1>About Daniel Adeniyi Temitope</h1>
         <p className="lead">Professional web development with 4 years of excellence</p>
       </section>
 
@@ -13,7 +13,7 @@ function About() {
           <div className="about-text">
             <h2>Our Story</h2>
             <p>
-              Founded in 2020, Elshiney web was born from a passion for creating exceptional digital experiences. 
+              Founded in 2020, Daniel Adeniyi Temitope was born from a passion for creating exceptional digital experiences. 
               What started as a small freelance operation has grown into a trusted partner for businesses across multiple industries.
             </p>
             <p>

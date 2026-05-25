@@ -6,7 +6,7 @@ function Home() {
     <div className="home">
       <section className="hero">
         <div className="hero-content">
-          <h1>Elshiney web</h1>
+          <h1>Daniel Adeniyi Temitope</h1>
           <p className="hero-subtitle">Professional Web Solutions for Your Business</p>
           <p className="hero-description">
             Tailored webshops and business websites that drive growth. 4 years of expertise in creating beautiful, 
@@ -44,7 +44,7 @@ function Home() {
       </section>
 
       <section className="why-choose">
-        <h2>Why Choose Elshiney web?</h2>
+        <h2>Why Choose Daniel Adeniyi Temitope?</h2>
         <div className="features">
           <div className="feature">
             <h4>4 Years of Experience</h4>

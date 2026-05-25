@@ -44,7 +44,7 @@ function Contact() {
         <div className="contact-info">
           <div className="info-block">
             <h3>📧 Email</h3>
-            <p>hello@elshiney.com</p>
+            <p>hello@bobmakeswebshop.com</p>
             <p className="description">
               We typically respond within 24 hours
             </p>
@@ -60,8 +60,14 @@ function Contact() {
 
           <div className="info-block">
             <h3>🏢 Company</h3>
-            <p>Elshiney web</p>
-            <p className="description">CVR: 46456807</p>
+            <p>Daniel Adeniyi Temitope</p>
+            <p className="description">CVR: 44384302</p>
+          </div>
+
+          <div className="info-block">
+            <h3>📍 Address</h3>
+            <p>Kolding 6000</p>
+            <p className="description">Denmark</p>
           </div>
 
           <div className="info-block">
