@@ -8,7 +8,7 @@ function Footer() {
     <footer className="footer">
       <div className="footer-content">
         <div className="footer-section">
-          <h3>Daniel Adeniyi Temitope</h3>
+          <h3>Elshiney web</h3>
           <p>Professional web development for businesses of all sizes.</p>
           <div className="social-links">
             <a href="#" title="LinkedIn">in</a>
@@ -39,7 +39,7 @@ function Footer() {
         <div className="footer-section">
           <h4>Get in Touch</h4>
           <ul>
-            <li><a href="mailto:hello@bobmakeswebshop.com">hello@bobmakeswebshop.com</a></li>
+            <li><a href="mailto:hello@elshiney.com">hello@elshiney.com</a></li>
             <li>Monday - Friday</li>
             <li>9 AM - 6 PM</li>
           </ul>
@@ -47,7 +47,7 @@ function Footer() {
       </div>
 
       <div className="footer-bottom">
-        <p>&copy; {currentYear} Daniel Adeniyi Temitope. All rights reserved. | CVR: 44384302</p>
+        <p>&copy; {currentYear} Elshiney web. All rights reserved. | CVR: 46456807</p>
         <div className="footer-links">
           <a href="#">Privacy Policy</a>
           <a href="#">Terms of Service</a>

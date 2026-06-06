@@ -43,7 +43,7 @@ function Home() {
       </section>
 
       <section className="why-choose">
-        <h2>Why Choose Daniel Adeniyi Temitope?</h2>
+        <h2>Why Choose Elshiney web?</h2>
         <div className="features">
           <div className="feature">
             <h4>4 Years of Experience</h4>

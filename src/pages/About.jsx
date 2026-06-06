@@ -4,7 +4,7 @@ function About() {
   return (
     <div className="about">
       <section className="about-hero">
-        <h1>About Daniel Adeniyi Temitope</h1>
+        <h1>About Elshiney web</h1>
         <p className="lead">Professional web development with 4 years of excellence</p>
       </section>
 
@@ -13,8 +13,8 @@ function About() {
           <div className="about-text">
             <h2>Our Story</h2>
             <p>
-              Founded in 2020, Daniel Adeniyi Temitope was born from a passion for creating exceptional digital experiences. 
-              What started as a small freelance operation has grown into a trusted partner for businesses across multiple industries.
+              Founded in 2020, Elshiney web was born from a passion for creating exceptional digital experiences. 
+              What started small has grown into a trusted partner for businesses across multiple industries.
             </p>
             <p>
               With 4 years of hands-on experience, we've successfully delivered custom webshops and business websites 
@@ -73,9 +73,8 @@ function About() {
       <section className="team-intro">
         <h2>Dedicated to Your Success</h2>
         <p>
-          As a solo-founded business, I bring personal attention to every project. 
-          You'll work directly with the developer who created your website, ensuring clear communication 
-          and a final product that exceeds your expectations.
+          Our team brings personal attention to every project.
+          We ensure clear communication and deliver final products that exceed expectations.
         </p>
       </section>
     </div>
